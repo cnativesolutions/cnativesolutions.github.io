@@ -5,4 +5,4 @@ permalink: /about/
 show-in-menu: yes
 ---
 
-About us: https://www.cnativesolutions.com/
+About us: Please, visit our website [www.cnativesolutions.com](https://www.cnativesolutions.com/).
