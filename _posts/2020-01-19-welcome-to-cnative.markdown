@@ -8,5 +8,5 @@ author: bazimov
 ---
 Welcome to Cloud Native Solutions Blog!
 
-We are happy to see you here. Please, visit our [website](https://www.cnativesolutions.com/) to contact us.
+We are happy to see you here! Please, visit our [website](https://www.cnativesolutions.com/) to contact us.
 

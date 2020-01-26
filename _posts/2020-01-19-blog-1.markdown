@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "AWS Cost Optimization!"
-description: This post is about general AWS cost optimization options
+title:  "AWS Cost Optimization"
+description: Basic steps to optimize your AWS costs.
 date:   2020-01-19 19:12:00 +0600
-categories: blog
+categories: aws
 author: bazimov
 ---
 
