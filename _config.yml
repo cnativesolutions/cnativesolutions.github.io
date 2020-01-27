@@ -9,10 +9,10 @@
 title: Cloud Native Solutions
 description: > # this means to ignore newlines until "baseurl:"
  Cloud Native Solutions Inc.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://cnativesolutions.com/blog/"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://cnativesolutions.github.io"
 permalink: :title/
-full-url: "https://cnativesolutions.com/blog/" # the base hostname & protocol for your site
+full-url: "https://cnativesolutions.github.io" # the base hostname & protocol for your site
 
 
 # CSS
