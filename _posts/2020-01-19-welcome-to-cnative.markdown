@@ -4,7 +4,7 @@ title:  "Welcome to Cloud Native Solutions Blog!"
 description: Welcome and thank you!
 date:   2020-01-19 18:59:00 +0530
 categories: blog
-author: bazimov
+author: Azimov
 ---
 Welcome to Cloud Native Solutions Blog!
 
