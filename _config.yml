@@ -20,7 +20,7 @@ sass:
   style: compressed
 
 # Comments - Go to Disqus.com > sign up > get the short-name > insert it here
-disqus-shortname: 
+disqus-shortname: cnativesolutions
 
 # Tracker
 analytics: UA-83979019-1
